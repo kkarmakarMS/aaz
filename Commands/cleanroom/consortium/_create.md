@@ -12,5 +12,5 @@ Create a consortium.
 
 - Create Consortium
     ```bash
-        cleanroom consortium create --resource-group testrg --consortium-name ContosoConsortium --location northeurope
+        cleanroom consortium create --resource-group testrg --consortium-name ContosoConsortium --location northeurope --members []
     ```
